@@ -1,6 +1,6 @@
 ## Olá! Sou o Gabriel Nogueira
 
-- 🎈  Tenhos 21 anos
+- 🎈  Tenho 21 anos
 - 🔭 Atualmente sou estudante de Gestão da Informação na UFU
 - 🌱 Estudando java e python
 
