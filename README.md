@@ -1,8 +1,8 @@
 ## Olá! Sou o Gabriel Nogueira
 
+- 🎈  Tenhos 21 anos
 - 🔭 Atualmente sou estudante de Gestão da Informação na UFU
 - 🌱 Estudando java e python
-- 📫 Contate-me no email: gabrieln500@gmail.com
 
 <div align="center">
   <a href="https://github.com/gabrielnmotta">
