@@ -13,10 +13,10 @@
 - Sou estudante de Gestão da Informação na UFU
 
 ## 📊 Algumas estatísticas:
-<div align="center">
+<div style="display: inline_block">
   <a href="https://github.com/gabrielnmotta">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielnmotta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnmotta&layout=compact&langs_count=7&theme=dracula&hide_border=true"/> 
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabrielnmotta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnmotta&layout=compact&langs_count=7&theme=dracula&hide_border=true"/> 
 </div>
   
 ## 📖 Estudadando atualmente:
