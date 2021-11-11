@@ -15,7 +15,7 @@
 ## 📊 Algumas estatísticas:
 <div align="center">
   <a href="https://github.com/gabrielnmotta">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabrielnmotta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="204em" src="https://github-readme-stats.vercel.app/api?username=gabrielnmotta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnmotta&layout=compact&langs_count=7&theme=dracula&hide_border=true"/> 
 </div>
   
@@ -27,6 +27,7 @@
   <img align="center" alt="Gabriel-css" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Gabriel-Python" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gabriel-java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" >
+  <img align="center" alt="Gabriel-java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg"" >
 
 </div>
 
