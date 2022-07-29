@@ -9,8 +9,9 @@
   
 ## 🧔 Quem sou eu ?
 - Meu nome é Gabriel Nogueira
-- Tenho 21 anos
+- Tenho 22 anos
 - Sou estudante de Gestão da Informação na UFU
+- Dev Front-end 
 
 ## 📊 Algumas estatísticas:
 <div align="center">
@@ -23,12 +24,11 @@
   
 ## 📖 Minhas stacks:
  <div style="display: inline_block"><br>
-  <img align="center" alt="Gabriel-HTML" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabriel-css" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Gabriel-sass" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="center" alt="Gabriel-JS" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
  <img align="center" alt="Gabriel-RT" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
- <img align="center" alt="Gabriel-TS" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+ <img align="center" alt="Gabriel-TS" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+ <img align="center" alt="Gabriel-sass" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+ <img align="center" alt="Gabriel-git" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
           
 
 </div>
