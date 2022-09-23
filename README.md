@@ -10,7 +10,7 @@
 ## 🧔 Quem sou eu ?
 - Meu nome é Gabriel Nogueira
 - Tenho 22 anos
-- Sou estudante de Gestão da Informação na UFU
+- Sou estudante de Sistemas de Informação na UFU
 - Dev Front-end 
 
 ## 📊 Algumas estatísticas:
