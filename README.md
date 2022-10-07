@@ -25,6 +25,7 @@
 ## 📖 Minhas stacks:
  <div style="display: inline_block"><br>
  <img align="center" alt="Gabriel-RT" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+ <img align="center" alt="Gabriel-RD" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
  <img align="center" alt="Gabriel-TS" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
  <img align="center" alt="Gabriel-sass" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
  <img align="center" alt="Gabriel-git" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
