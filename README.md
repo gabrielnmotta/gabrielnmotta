@@ -11,7 +11,7 @@
 - Meu nome é Gabriel Nogueira
 - Tenho 22 anos
 - Sou estudante de Sistemas de Informação na UFU
-- Dev Front-end 
+- Dev Front-end (Web/Mobile)
 
 ## 📊 Algumas estatísticas:
 <div align="center">
@@ -25,15 +25,13 @@
 ## 📖 Minhas stacks:
  <div style="display: inline_block"><br>
  <img align="center" alt="Gabriel-RT" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
- <img align="center" alt="Gabriel-RD" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+ <img align="center" alt="Gabriel-next" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
  <img align="center" alt="Gabriel-TS" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+ <img align="center" alt="Gabriel-flutter" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />  
+ <img align="center" alt="Gabriel-tail" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
  <img align="center" alt="Gabriel-sass" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
  <img align="center" alt="Gabriel-git" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
- <img align="center" alt="Gabriel-next" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
- <img align="center" alt="Gabriel-tail" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-   
-   
-
+ <img align="center" alt="Gabriel-firebase" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
           
 
 </div>
