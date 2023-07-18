@@ -1,5 +1,5 @@
 
-<h1 align="center" > Olá! Que bom ter você por aqui </h1>
+<h1 align="center" > Hello! It's good to have you here </h1>
 
 <div align="center" > 
   
@@ -7,11 +7,11 @@
 
 </div>
   
-## 🧔 Quem sou eu ?
-- Meu nome é Gabriel Nogueira
-- Tenho 23 anos
-- Sou estudante de Sistemas de Informação na UFU
-- Dev Front-end (Web/Mobile)
+## 🧔 Who am I ? ?
+- My name is Gabriel Nogueira
+- I'm 23 years
+- I'm a student of Information Systems at UFU
+- Dev Fullstack 
 
 ## 📊 Algumas estatísticas:
 <div align="center">
@@ -22,7 +22,7 @@
   
 
   
-## 📖 Minhas stacks:
+## 📖 My stacks:
  <div style="display: inline_block"><br>
  <img align="center" alt="Gabriel-RT" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
  <img align="center" alt="Gabriel-next" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
@@ -40,7 +40,7 @@
 </div>
 
  
-## 🗨️ Vamos conversar:
+## 🗨️ Lets talk:
 <div>
   <a href = "mailto:gabrieln500@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabrielnogueirams/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
