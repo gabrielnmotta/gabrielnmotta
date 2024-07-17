@@ -7,46 +7,62 @@
 
 </div>
   
-## 🧔 Who am I ? ?
+# 🧔 Who am I ? ?
 - My name is Gabriel Nogueira
-- I'm 23 years
+- Software Developer
+- I'm 24 years
 - I'm a student of Information Systems at UFU
-- Dev Fullstack 
 
-## 📊 Algumas estatísticas:
+# <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> Technologies That I Know
+
+<table align="center"><tr><td valign="top" width="33%">
+
+### <div align="center"> Frontend </div>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,mui,graphql,styledcomponents,redux&theme=dark&perline=3" />
+</p>
+
+</td><td valign="top" width="33%">
+
+### <div align="center"> Backend </div>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,ruby,rails,postgres,heroku&theme=dark&perline=3" />
+</p>
+
+</td><td valign="top" width="33%">
+
+### <div align="center"> Tools </div>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,vercel,github,git,firebase,vscode,docker,figma&theme=dark&perline=3" />
+</p>
+
+</td></tr></table>
+<br/><br/>
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielnmotta&theme=radical" />
+</p>
+<br/><br/>
+
+# 📫 Connect With Me
+
 <div align="center">
-  <a href="https://github.com/gabrielnmotta">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabrielnmotta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnmotta&layout=compact&langs_count=7&theme=dracula&hide_border=true"/> 
-</div>
-  
+<a href="https://www.linkedin.com/in/gabrielnogueirams/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://gabrielnmotta.dev" target="_blank">
+<img src="https://img.shields.io/badge/mysite-b200ed.svg?&style=for-the-badge&logo=gnometerminal&logoColor=white" alt=mysite style="margin-bottom: 5px;" />
+</a>  
+</div>  
+<br/><br/>
 
-  
-## 📖 My stacks:
- <div style="display: inline_block"><br>
- <img align="center" alt="Gabriel-RT" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
- <img align="center" alt="Gabriel-next" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
- <img align="center" alt="Gabriel-TS" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
- <img align="center" alt="Gabriel-flutter" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />  
- <img align="center" alt="Gabriel-tail" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
- <img align="center" alt="Gabriel-sass" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
- <img align="center" alt="Gabriel-git" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
- <img align="center" alt="Gabriel-firebase" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
- <img align="center" alt="Gabriel-firebase" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
- <img align="center" alt="Gabriel-firebase" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" />
-   
-          
-
-</div>
-
- 
-## 🗨️ Lets talk:
-<div>
-  <a href = "mailto:gabrieln500@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabrielnogueirams/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/gabrielnmotta/gabrielnmotta/blob/output/github-contribution-grid-snake.svg)
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielnmotta&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrielnmotta&theme=radical)
   
   
   
